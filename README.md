@@ -6,6 +6,7 @@
 <b>Authentication : </b>Google OAuth
 <br><br>
 <b>Usage: </b>Extract Files and locate your folder to Code Editor<br>
-1.Install Required Modules by <code>( npm i ) </code> this will create node_modules to your folder<br>
-2.Run your server <code>( npm run dev )</code><br>
-3.Go to localhost:1003<br>
+1.Install Required Modules by <code>( npm i ) </code> this will create node_modules to your folder.<br>
+2.Install Morgan middleware <code>( npm i morgan ) </code> this will install morgan middleware.
+3.Run your server !! <code>( npm app )</code><br>
+4.Go to localhost:3000<br>

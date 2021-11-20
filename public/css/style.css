@@ -1,0 +1,69 @@
+*{
+    font-family: poppins;
+    
+    text-transform: uppercase;
+}
+body{
+    background-image: url("https://www.loriswebs.com/images/texture-images/whitepapertexture.gif");
+}
+#bodystory{
+    text-align: justify;
+    
+}
+p{
+    margin:10px 0 !important;
+    
+}
+.login-container{
+width: 500px;
+margin-top: 150px;
+text-align: center;
+}
+#ps{
+    color: black;
+    font-family: poppins;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+#ps2{
+    
+    font-family: poppins;
+    font-weight:bold;letter-spacing:2px;
+    text-transform: uppercase;
+}
+
+hr.style16 { 
+    border-top: 1px dashed #8c8b8b; 
+  } 
+  hr.style16:after { 
+    font-family: "Font Awesome 5 Free";
+    content: '\f02e'; 
+    display: inline-block; 
+    position: relative; 
+    top: -12px; 
+    left: 180px; 
+    padding: 0 3px; 
+    background: #f0f0f0; 
+    color: #8c8b8b; 
+    font-size: 18px; 
+  }
+
+.fa-small {
+    font-size: 16px !important;
+    background-color:#ed6663;
+    
+  }
+  
+  .btn-float {
+    float: left;
+    margin-right: 10px;
+  }
+  #readmore{
+      background-color:#393b44 !important;
+      font-family: poppins;
+  }
+  .img-small {
+    width: 180px;
+  }
+  

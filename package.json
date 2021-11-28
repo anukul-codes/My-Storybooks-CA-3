@@ -7,7 +7,7 @@
     "start": "cross-env NODE_ENV=production node app",
     "dev": "cross-env NODE_ENV=development nodemon app"
   },
-  "author": "Jotish Sharma",
+  "author": "Anukul Singh",
   "license": "MIT",
   "dependencies": {
     "connect-mongo": "^3.2.0",
